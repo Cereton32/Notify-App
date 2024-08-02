@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "561883177042",
+    "project_id": "fir-prtice",
+    "storage_bucket": "fir-prtice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561883177042:android:0c3ba33efbfc6c3dd07f8b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_pratice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaUx9IRe-AlRnLs8VZ9jIiW09B_gqkbkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561883177042:android:da23505c59ba2902d07f8b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth_appwrite_pratice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaUx9IRe-AlRnLs8VZ9jIiW09B_gqkbkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
